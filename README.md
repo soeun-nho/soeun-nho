@@ -1,13 +1,4 @@
 
-<div>
-
-### 🪄 About Me 
-
-
-<!-- Gmail -->
-<a href="mailto:so84392091@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
 
 #### 🏫 Dongduk Women’s University  
 - B.S. in **Computer Science (Major)**  
