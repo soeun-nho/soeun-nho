@@ -3,6 +3,7 @@
 
 ### 🪄 About Me 
 
+
 <!-- Gmail -->
 <a href="mailto:so84392091@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -15,15 +16,15 @@
 
 
 ### 💼 Activities  
-🦁 멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 11th BE 아기사자  
-🦁 멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 12th BE 운영진  
-💻 코드클럽 한국위원회 상반기 찾아가는 SW교육기부단
+-  멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 11th BE 아기사자  
+-  멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 12th BE 운영진  
+-  코드클럽 한국위원회 상반기 찾아가는 SW교육기부단
 
 
 
 
 ### 🏆 Awards  
-🏅 **교내 소프트웨어 경진대회 2023 — 장려상**
+-  **교내 소프트웨어 경진대회 2023 — 장려상**
 
 
 ### 💻 Tech Stack  
