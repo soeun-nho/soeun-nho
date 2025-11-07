@@ -1,10 +1,3 @@
-<div align="center">
-
-  <h2 style="font-size: 1.9em; font-weight: 600; color: #2E2E2E;">Hi </h2>
-
-</div>
-
----
 
 <div>
 
@@ -19,7 +12,7 @@
 - B.S. in **Computer Science (Major)**  
 - Minor in **Business Administration**
 
----
+
 
 ### 💼 Activities  
 🦁 멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 11th BE 아기사자  
@@ -27,12 +20,11 @@
 💻 코드클럽 한국위원회 상반기 찾아가는 SW교육기부단
 
 
----
+
 
 ### 🏆 Awards  
 🏅 **교내 소프트웨어 경진대회 2023 — 장려상**
 
----
 
 ### 💻 Tech Stack  
 <p style="transform: scale(0.9); display: inline-block;">
@@ -56,7 +48,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>  
 </p>
 
----
 
 ### 🛠 Tools  
 <p style="transform: scale(0.9); display: inline-block;">
