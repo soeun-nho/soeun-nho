@@ -8,7 +8,8 @@
 
 ### 💼 Activities  
 -  멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 11th BE 아기사자  
--  멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 12th BE 운영진  
+-  멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 12th BE 운영진
+-  동덕여자대학교 SK LOOKIE : DDSL 운영진
 -  코드클럽 한국위원회 상반기 찾아가는 SW교육기부단
 
 
@@ -16,6 +17,7 @@
 
 ### 🏆 Awards  
 -  교내 소프트웨어 경진대회 2022 — 장려상
+-  동덕여대 창업지원단 IT 활용 창업아이디어 공모전 - 대상
 
 
 ### 💻 Tech Stack  
