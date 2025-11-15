@@ -9,8 +9,8 @@
 ### 💼 Activities  
 -  멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 11th BE 아기사자  
 -  멋쟁이사자처럼 대학 (LIKELION.UNIV) 동덕여대 12th BE 운영진
--  동덕여자대학교 SK LOOKIE : DDSL 운영진
--  코드클럽 한국위원회 상반기 찾아가는 SW교육기부단
+-  SK LOOKIE 동덕여자대학교 운영진
+-  코드클럽 한국위원회 상반기 찾아가는 SW교육기부단 2023
 
 
 
